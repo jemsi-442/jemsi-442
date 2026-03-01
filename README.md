@@ -1,124 +1,174 @@
+<!-- Dynamic Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Systems+Engineer;Adversarial+Security+Thinker;Architecture+Under+Constraint;Fintech+%7C+Marketplace+%7C+Secure+APIs" />
+</p>
+
+---
+
 # Jemsi Fredrick Pallangyo  
-### Backend Systems Engineer | Adversarial Security Thinker | Architecture Under Constraint
+### Backend Systems Engineer | Offensive Security Strategist | Secure Architecture Designer  
 
-I design backend systems that operate under scale, adversarial pressure, and governance constraints.
+I engineer backend systems that remain stable under scale, hostile conditions, and operational pressure.
 
-My specialization sits at the convergence of:
-
-- Secure API Architecture  
-- Fintech-grade Backend Systems  
-- Red Team Simulation Thinking  
-- Infrastructure-aware Application Design  
-- Operational Risk Modeling  
-
-I do not build software for ideal conditions.  
-I build systems assuming compromise.
+My approach integrates backend architecture with adversarial modeling.  
+Security is treated as an architectural primitive — not an afterthought.
 
 ---
 
-## Engineering Positioning (2026)
+## Strategic Positioning — 2026
 
-Modern backend systems fail for three reasons:
+Modern systems collapse because:
 
-1. Poor threat modeling  
-2. Weak data boundary control  
-3. Operational misalignment  
+- Privilege boundaries are weak  
+- Logging is cosmetic  
+- Threat modeling is superficial  
+- Data design ignores adversarial behavior  
 
-My work focuses on eliminating those failure points.
+My work focuses on eliminating these structural weaknesses.
 
-I integrate red team reasoning directly into backend architecture design — meaning authentication, privilege control, logging, and data modeling are treated as security surfaces, not features.
-
----
-
-## Core Domains
-
-### Backend Architecture
-- RESTful API design (production-grade)
-- Multi-role access control (RBAC)
-- JWT lifecycle modeling
-- MariaDB and MongoDB schema optimization
-- Transactional logic for fintech systems
-- Admin & multi-branch backend modeling
-
-### Security & Adversarial Modeling
-- Windows Active Directory attack surface analysis
-- Living-Off-The-Land (LOTL) operational simulation
-- Fileless execution pathway research
-- Privilege escalation path mapping
-- Defensive detection gap assessment
-
-### Systems & Governance Thinking
-- Backend architecture under regulatory constraint
-- Operational risk mapping
-- Data exposure minimization models
-- System hardening through architectural design
+I design backend systems assuming breach, monitoring, and active adversaries.
 
 ---
 
-## Tech Stack
+## Core Domains of Expertise
+
+### Backend & API Architecture
+- Production-grade REST design
+- Role-Based Access Control (RBAC)
+- JWT lifecycle governance
+- MongoDB schema performance optimization
+- Transaction integrity modeling (fintech-grade)
+- Multi-branch & multi-tenant backend systems
+
+### Adversarial Security Modeling
+- Active Directory attack surface mapping
+- Living-Off-The-Land (LOTL) simulation
+- Fileless operational modeling
+- Privilege escalation path analysis
+- Endpoint-restricted execution research
+
+### Systems Thinking & Governance
+- Backend design under compliance constraints
+- Risk surface reduction strategy
+- Data exposure minimization architecture
+- Operational workflow hardening
+
+---
+
+## Technology Stack
 
 **Languages**
 - JavaScript (Node.js)
 - Python
 - Bash
-- PHP (laravel na Symfomy)
-- Python- Django
 
-**Backend**
+**Backend Infrastructure**
 - Express.js
-- MariaDB na MongoDB / Atlas
-- JWT authentication systems
-- API security patterns
+- MongoDB / Atlas
+- Secure API design
+- Authentication & authorization systems
 
-**Security Environment**
+**Security & Environment**
 - Linux systems
-- Network reconnaissance methodologies
-- Log analysis & monitoring evaluation
-- Endpoint constraint modeling
+- Network reconnaissance modeling
+- Log analysis strategy
+- Detection-aware architecture
 
 ---
 
-## GitHub Analytics
+## GitHub Intelligence Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jemsi-442&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jemsi-442&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemsi-442&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jemsi-442&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jemsi-442&theme=dark&hide_border=true)
-
----
-
-## Strategic Focus (Current Phase)
-
-- Designing breach-assumed backend systems
-- Secure fintech API design
-- Detection-aware system modeling
-- High-discipline Git workflow optimization
-- Backend systems that scale without expanding attack surface
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jemsi-442&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## Selected Project Domains
+## Contribution Activity Map
 
-- Marketplace management systems
-- Payment integration APIs
-- Admin role-controlled dashboards
-- Inventory intelligence systems
-- Security research environments
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemsi-442&theme=tokyonight" />
+</p>
 
 ---
 
-## Location
+## Achievement Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jemsi-442&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## Contribution Snake Animation
+
+Add this GitHub Action after creating the repo:
+
+Create file:
+
+`.github/workflows/snake.yml`
+
+```
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: jemsi-442
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then add this image in your README:
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jemsi-442/jemsi-442/output/github-contribution-grid-snake.svg" />
+</p>
+```
+
+---
+
+## Current Strategic Focus
+
+- Secure fintech API systems  
+- Detection-aware backend modeling  
+- Adversarial resilience engineering  
+- Scalable marketplace infrastructures  
+- Backend systems built for survivability  
+
+---
+
+## Location  
 Dar es Salaam, Tanzania  
 
 ---
 
-## Contact
-Email: jemsifredrick4@gmail.com  
-+255 683 186 987
+## Contact  
+jemsifredrick4@gmail.com  
+
 ---
 
-## Engineering Principle
+### Engineering Doctrine
 
-Strong backend systems are not defined by features.  
-They are defined by survivability under stress.
+Strong systems are defined by survivability,  
+not by feature count.
