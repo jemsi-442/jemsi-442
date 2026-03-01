@@ -36,7 +36,7 @@ I design backend systems assuming breach, monitoring, and active adversaries.
 - Production-grade REST design
 - Role-Based Access Control (RBAC)
 - JWT lifecycle governance
-- MongoDB schema performance optimization
+- MariaDB na MongoDB schema performance optimization
 - Transaction integrity modeling (fintech-grade)
 - Multi-branch & multi-tenant backend systems
 
@@ -61,10 +61,13 @@ I design backend systems assuming breach, monitoring, and active adversaries.
 - JavaScript (Node.js)
 - Python
 - Bash
+- PHP (symfony na laravel)
+- python-django
+- Java
 
 **Backend Infrastructure**
 - Express.js
-- MongoDB / Atlas
+- MariaDB na MongoDB / Atlas
 - Secure API design
 - Authentication & authorization systems
 
@@ -138,7 +141,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then add this image in your README:
 
 ```
 <p align="center">
@@ -165,7 +167,7 @@ Dar es Salaam, Tanzania
 
 ## Contact  
 jemsifredrick4@gmail.com  
-
+https://wa.me255683186987
 ---
 
 ### Engineering Doctrine
