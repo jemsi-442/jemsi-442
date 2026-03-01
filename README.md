@@ -36,7 +36,7 @@ I integrate red team reasoning directly into backend architecture design — mea
 - RESTful API design (production-grade)
 - Multi-role access control (RBAC)
 - JWT lifecycle modeling
-- MongoDB schema optimization
+- MariaDB and MongoDB schema optimization
 - Transactional logic for fintech systems
 - Admin & multi-branch backend modeling
 
@@ -61,10 +61,12 @@ I integrate red team reasoning directly into backend architecture design — mea
 - JavaScript (Node.js)
 - Python
 - Bash
+- PHP (laravel na Symfomy)
+- Python- Django
 
 **Backend**
 - Express.js
-- MongoDB / Atlas
+- MariaDB na MongoDB / Atlas
 - JWT authentication systems
 - API security patterns
 
@@ -113,7 +115,7 @@ Dar es Salaam, Tanzania
 
 ## Contact
 Email: jemsifredrick4@gmail.com  
-
++255 683 186 987
 ---
 
 ## Engineering Principle
