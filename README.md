@@ -98,57 +98,7 @@ I design backend systems assuming breach, monitoring, and active adversaries.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemsi-442&theme=tokyonight" />
 </p>
 
----
 
-## Achievement Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jemsi-442&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## Contribution Snake Animation
-
-Add this GitHub Action after creating the repo:
-
-Create file:
-
-`.github/workflows/snake.yml`
-
-```
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: jemsi-442
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-
-```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jemsi-442/jemsi-442/output/github-contribution-grid-snake.svg" />
-</p>
-```
-
----
 
 ## Current Strategic Focus
 
