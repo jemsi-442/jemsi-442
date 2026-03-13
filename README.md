@@ -8,6 +8,8 @@
 # Jemsi Fredrick Pallangyo  
 ### Backend Systems Engineer | Offensive Security Strategist | Secure Architecture Designer  
 
+https://jayfourportfolio.vercel.app/
+
 I engineer backend systems that remain stable under scale, hostile conditions, and operational pressure.
 
 My approach integrates backend architecture with adversarial modeling.  
