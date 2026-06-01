@@ -86,6 +86,7 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 
 **Languages**
 - JavaScript (Node.js)
+- TypeScript
 - Python
 - Bash
 - PHP
@@ -96,9 +97,13 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 - Laravel
 - Symfony
 - Django
+- Next.js
 - REST APIs
 - Web application architecture
 - Frontend integration with backend services
+
+**Libraries**
+- React.js
 
 **Databases & Infrastructure**
 - MariaDB
