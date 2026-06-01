@@ -89,7 +89,7 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 - Python
 - Bash
 - PHP
-- Java
+- C/C++
 
 **Frameworks & Platforms**
 - Express.js
