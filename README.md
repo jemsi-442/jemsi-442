@@ -8,7 +8,7 @@
 # Jemsi Fredrick Pallangyo  
 ### Software Engineer | Secure Backend Architect | Systems & Security Thinker  
 
-https://jemsipo.vercel.app/
+https://jemsiportfolio.vercel.app/
 
 <p align="left">
   <a href="https://jaytrixportifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
