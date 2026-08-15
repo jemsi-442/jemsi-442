@@ -88,6 +88,7 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 - JavaScript (Node.js)
 - TypeScript
 - Python
+- Go
 - Bash
 - PHP
 - C/C++
@@ -98,6 +99,7 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 - Symfony
 - Django
 - Next.js
+- Flutter
 - REST APIs
 - Web application architecture
 - Frontend integration with backend services
@@ -166,12 +168,6 @@ Private managed request marketplace for digital services, vendor capability lane
 </p>
 
 ---
-
-## Contribution Activity Map
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemsi-442&theme=tokyonight" />
-</p>
 
 ## Current Strategic Focus
 
