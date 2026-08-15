@@ -8,7 +8,7 @@
 # Jemsi Fredrick Pallangyo  
 ### Software Engineer | Secure Backend Architect | Systems & Security Thinker  
 
-https://jaytrixportifolio.vercel.app/
+https://jemsipo.vercel.app/
 
 <p align="left">
   <a href="https://jaytrixportifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -124,20 +124,27 @@ I design systems with clean architecture, strong boundaries, secure workflows, a
 
 ## Featured Projects
 
-### [Payroll Management](https://github.com/jemsi-442/payroll_management)
+For source code access, technical walkthroughs, or private demos, contact me on WhatsApp: [**+255 683 186 987**](https://wa.me/255683186987).
+
+### Payroll Management
 Modern HR and payroll dashboard for employee management, payroll processing, attendance, leave tracking, reports, compliance, notifications, and employee portal workflows.
 
 **Stack:** Laravel, Blade, Tailwind CSS, JavaScript, MySQL/MariaDB
 
-### [RGC Tanzania Management System](https://github.com/jemsi-442/rgc-system)
+### RGC Tanzania Management System
 Church operations platform for regions, districts, branches, members, announcements, events, offerings, expenses, payments, branch chat, and role-based dashboards.
 
 **Stack:** Laravel 12, Vite, Tailwind CSS, MySQL/MariaDB, Spatie Permission, Snippe
 
-### [Ecommerce](https://github.com/jemsi-442/ecommerce)
+### Ecommerce
 Multi-vendor marketplace and delivery platform with product management, order lifecycle, rider assignment, admin dashboard metrics, JWT auth, media uploads, and Snippe mobile money flow.
 
 **Stack:** React, Tailwind CSS, Node.js, Express.js, MariaDB, Sequelize, Cloudinary
+
+### JAYTRIX Sales Management System
+Multi-tenant SaaS platform for retail shops, supermarkets, hotels, bars, pharmacies, hardware stores, wholesalers, and other sales-driven businesses. The system covers POS, inventory, branches, users, reports, subscription billing, offline operations, audit logs, and Tanzanian mobile money payment flows.
+
+**Stack:** Flutter Desktop, Flutter Mobile, Flutter Web, Go, PostgreSQL, Redis, JWT, offline sync
 
 ### WOLFIX Marketplace Platform
 Private managed request marketplace for digital services, vendor capability lanes, protected bookings, escrow-backed payments, delivery review, disputes, withdrawals, and admin workflows.
