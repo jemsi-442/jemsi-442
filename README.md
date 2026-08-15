@@ -1,25 +1,30 @@
 <!-- Dynamic Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Secure+Systems+Builder;Backend+%7C+APIs+%7C+Databases;Fintech+%7C+Marketplaces+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=JayTrix+Systems;Software+Engineer+%26+Systems+Architect;Secure+Application+Architecture;RBAC+%7C+APIs+%7C+Databases+%7C+Linux" />
 </p>
 
 ---
 
 # Jemsi Fredrick Pallangyo  
-### Software Engineer | Secure Backend Architect | Systems & Security Thinker  
+### Software Engineer & Systems Architect  
+
+**JayTrix Systems**  
+Technology | Innovation | Excellence
 
 https://jemsiportfolio.vercel.app/
 
 <p align="left">
-  <a href="https://jaytrixportifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://jemsiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/jaytrix-systems-74202a320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@jaytrixsystems442tx?si=7EFpHHiENBY2tuiD"><img src="https://img.shields.io/badge/YouTube-JayTrix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:jemsifredrick4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/255683186987"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-I design and build software systems that are reliable, secure, scalable, and practical for real-world use.
+I design and build secure software systems, structured application architectures, and scalable digital products for real-world production environments.
 
-My work combines software engineering, backend architecture, API design, database modeling, and adversarial security thinking.  
-I treat security, performance, maintainability, and user value as core parts of the engineering process.
+My work sits at the intersection of software architecture, backend engineering, RBAC, API security, database modeling, Linux administration, and production-minded system design.  
+I care about systems that are clean to maintain, secure by design, and strong enough to support real business operations.
 
 ---
 
@@ -33,19 +38,17 @@ I treat security, performance, maintainability, and user value as core parts of 
 
 ---
 
-## Engineering Positioning — 2026
+## Architecture Focus
 
-Modern software fails when:
+- Authentication-first platform design
+- Role-based access control and permission boundaries
+- Database schemas aligned with real business processes
+- API flows with validation, predictable states, and clear service boundaries
+- Linux-aware deployment thinking, monitoring, and operational reliability
 
-- Requirements are not translated into strong system design  
-- APIs are built without clear contracts and lifecycle thinking  
-- Data models ignore performance, privacy, and future growth  
-- Security is added late instead of being designed from the start  
-- Observability, testing, and maintainability are treated as optional  
+I usually own the structure behind the system: modules, service boundaries, auth flows, database models, API behavior, and the decisions that keep software maintainable after launch.
 
-My focus is building software that can survive scale, change, operational pressure, and hostile conditions.
-
-I design systems with clean architecture, strong boundaries, secure workflows, and practical delivery in mind.
+My focus is building software that can survive scale, change, operational pressure, and security risk without becoming hard to reason about.
 
 ---
 
@@ -163,27 +166,14 @@ Private managed request marketplace for digital services, vendor capability lane
 
 ---
 
-## GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemsi-442&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemsi-442&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jemsi-442&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## Current Strategic Focus
 
 - Software engineering for real-world business systems  
-- Secure fintech API systems  
-- Detection-aware backend modeling  
-- Adversarial resilience engineering  
-- Scalable marketplace infrastructures  
-- Full-stack systems built for survivability  
+- Secure application architecture  
+- Role-based access control and API security  
+- Scalable SaaS and marketplace infrastructures  
+- Linux-backed deployment and production readiness  
+- Systems built for maintainability, traceability, and long-term growth  
 
 ---
 
