@@ -28,100 +28,55 @@ I care about systems that are clean to maintain, secure by design, and strong en
 
 ---
 
-## What I Build
+## Architecture & Capabilities
 
-- Business management systems with role-based workflows and dashboards
-- Secure APIs for fintech, marketplaces, and organization operations
-- Multi-user platforms for admins, vendors, employees, riders, leaders, and members
-- Database-backed applications with reporting, payments, notifications, and audit-friendly flows
-- Systems designed with security, maintainability, and operational reliability from day one
-
----
-
-## Architecture Focus
-
-- Authentication-first platform design
-- Role-based access control and permission boundaries
-- Database schemas aligned with real business processes
-- API flows with validation, predictable states, and clear service boundaries
-- Linux-aware deployment thinking, monitoring, and operational reliability
+- **Software Architecture:** service boundaries, API structure, business logic, RBAC, and multi-tenant SaaS design
+- **Backend Systems:** REST APIs, JWT lifecycle governance, role-based workflows, validation, and predictable state handling
+- **Data Modeling:** relational schemas, tenant isolation, query optimization, reporting-ready structures, and stock/payment records
+- **Infrastructure:** Linux server administration, Nginx, systemd services, shell scripting, backups, monitoring, and CI/CD basics
+- **Security:** authentication testing, access control review, secure configuration, vulnerability assessment, and hardening guidance
+- **Frontend Support:** React, Next.js, Flutter, Tailwind CSS, responsive UI integration, and desktop/mobile POS interfaces
 
 I usually own the structure behind the system: modules, service boundaries, auth flows, database models, API behavior, and the decisions that keep software maintainable after launch.
-
-My focus is building software that can survive scale, change, operational pressure, and security risk without becoming hard to reason about.
-
----
-
-## Core Engineering Domains
-
-### Software Engineering
-- Full-stack application development
-- Backend service design
-- API-driven product architecture
-- Clean code and maintainable system structure
-- Debugging, testing, and performance improvement
-- Real-world problem solving through software
-
-### Backend & API Systems
-- Production-grade REST design
-- Role-Based Access Control (RBAC)
-- JWT lifecycle governance
-- MariaDB & MongoDB schema performance optimization
-- Transaction integrity modeling (fintech-grade)
-- Multi-branch & multi-tenant backend systems
-
-### Security Engineering & Threat Modeling
-- Secure authentication and authorization design
-- RBAC and privilege boundary analysis
-- Payment, webhook, and file-upload flow hardening
-- Abuse-case thinking for backend and API workflows
-- Logging, monitoring, and detection-aware architecture
-
-### Systems Thinking & Governance
-- Software design under compliance constraints
-- Risk surface reduction strategy
-- Data exposure minimization architecture
-- Operational workflow hardening
 
 ---
 
 ## Technology Stack
 
 **Languages**
-- JavaScript (Node.js)
-- TypeScript
-- Python
-- Go
-- Bash
-- PHP
-- C/C++
 
-**Frameworks & Platforms**
-- Express.js
-- Laravel
-- Symfony
-- Django
-- Next.js
-- Flutter
-- REST APIs
-- Web application architecture
-- Frontend integration with backend services
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php)
+![C/C++](https://img.shields.io/badge/C%2FC++-111827?style=flat-square&logo=cplusplus)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash)
 
-**Libraries**
-- React.js
+**Frameworks & Libraries**
 
-**Databases & Infrastructure**
-- MariaDB
-- MongoDB / Atlas
-- Secure API design
-- Authentication & authorization systems
-- Multi-tenant system architecture
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel)
+![Symfony](https://img.shields.io/badge/Symfony-111827?style=flat-square&logo=symfony)
+![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
+![React.js](https://img.shields.io/badge/React.js-111827?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss)
 
-**Security & Environment**
-- Linux systems
-- Network reconnaissance modeling
-- Log analysis strategy
-- Detection-aware architecture
+**Databases, Infrastructure & Security**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-111827?style=flat-square&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
+![RBAC](https://img.shields.io/badge/RBAC-111827?style=flat-square)
+![API Security](https://img.shields.io/badge/API_Security-111827?style=flat-square)
 
 ---
 
@@ -129,62 +84,68 @@ My focus is building software that can survive scale, change, operational pressu
 
 For source code access, technical walkthroughs, or private demos, contact me on WhatsApp: [**+255 683 186 987**](https://wa.me/255683186987).
 
+### JAYTRIX Sales Management System
+Design-complete multi-tenant SaaS POS and inventory platform for retail shops, supermarkets, hotels, bars, pharmacies, hardware stores, wholesalers, and other sales-driven businesses. The system covers POS, inventory, branches, users, reports, subscription billing, offline operations, audit logs, and Tanzanian payment flows.
+
+**Stack:** Flutter Desktop, Flutter Mobile, Flutter Web, Dart, Go, PostgreSQL, Redis, RBAC, offline sync
+
+### RGC Tanzania Management System
+National church governance platform for Tanzania Mainland and Zanzibar, built to manage church administration workflows, structured access control, announcements, events, offerings, expenses, branch chat, and role-based dashboards.
+
+**Stack:** Laravel 12, Blade, Vite, Tailwind CSS, MySQL/MariaDB, Spatie Permission, Snippe
+
+### Pharmacy Management System
+Transaction-focused inventory and sales operations system designed around stock movement, controlled sales handling, structured relational data, and query efficiency.
+
+**Stack:** Node.js, Express.js, MariaDB, relational modeling, application logic
+
 ### Payroll Management
-Modern HR and payroll dashboard for employee management, payroll processing, attendance, leave tracking, reports, compliance, notifications, and employee portal workflows.
+Laravel-based payroll application implementing salary computation logic, deductions processing, validation-driven request handling, and maintainable payroll workflow control.
 
 **Stack:** Laravel, Blade, Tailwind CSS, JavaScript, MySQL/MariaDB
 
-### RGC Tanzania Management System
-Church operations platform for regions, districts, branches, members, announcements, events, offerings, expenses, payments, branch chat, and role-based dashboards.
-
-**Stack:** Laravel 12, Vite, Tailwind CSS, MySQL/MariaDB, Spatie Permission, Snippe
-
-### Ecommerce
-Multi-vendor marketplace and delivery platform with product management, order lifecycle, rider assignment, admin dashboard metrics, JWT auth, media uploads, and Snippe mobile money flow.
+### Ecommerce Multi-Vendor Platform
+Marketplace and delivery operations platform built for shoppers, vendors, riders, and modern retail workflows with product management, order-state logic, rider assignment, admin metrics, JWT auth, and media uploads.
 
 **Stack:** React, Tailwind CSS, Node.js, Express.js, MariaDB, Sequelize, Cloudinary
 
-### JAYTRIX Sales Management System
-Multi-tenant SaaS platform for retail shops, supermarkets, hotels, bars, pharmacies, hardware stores, wholesalers, and other sales-driven businesses. The system covers POS, inventory, branches, users, reports, subscription billing, offline operations, audit logs, and Tanzanian mobile money payment flows.
-
-**Stack:** Flutter Desktop, Flutter Mobile, Flutter Web, Go, PostgreSQL, Redis, JWT, offline sync
-
-### WOLFIX Marketplace Platform
-Private managed request marketplace for digital services, vendor capability lanes, protected bookings, escrow-backed payments, delivery review, disputes, withdrawals, and admin workflows.
+### Service Marketplace Platform
+Symfony-based marketplace transaction architecture implementing escrow workflow logic, controlled transaction states, role-based system access, secure API endpoints, dispute handling, delivery review, and withdrawals.
 
 **Stack:** Symfony, Doctrine ORM, Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand
 
 ---
 
-## Engineering Strengths
+## Professional Journey
 
-- Translating real operational problems into working software systems
-- Designing role-based access, secure authentication, and permission boundaries
-- Building payment-aware workflows with confirmation, webhook, and audit concerns
-- Structuring databases for reporting, performance, and long-term maintainability
-- Thinking like both a builder and an adversary when designing production systems
+### 2019 - 2021: Personal Projects & Technical Foundation
+Started with programming fundamentals, CRUD workflows, authentication basics, database-backed applications, debugging, and practical project organization.
 
----
+### 2021 - 2024: Business Workflow Systems
+Built payroll, inventory, pharmacy, administration, and workflow-heavy systems while applying HRM knowledge around records, payroll logic, reporting, and organizational processes.
 
-## Current Strategic Focus
-
-- Software engineering for real-world business systems  
-- Secure application architecture  
-- Role-based access control and API security  
-- Scalable SaaS and marketplace infrastructures  
-- Linux-backed deployment and production readiness  
-- Systems built for maintainability, traceability, and long-term growth  
+### 2024 - Present: Architecture-Driven Private Builds
+Designing production-minded private builds and platform specifications across SaaS, governance, ecommerce, and transaction-heavy systems using backend, frontend, database, Linux, and mobile technologies.
 
 ---
 
-## Location  
-Dar es Salaam, Tanzania  
+## Education & System Mastery
+
+- **Diploma in Human Resource Management (HRM):** payroll systems, organizational workflows, records, and structured administration
+- **Bachelor of Business Administration (BBA):** strategic planning, systems thinking, operations, and decision-making frameworks
+- **Software Engineering & System Architecture:** clean architecture, secure APIs, scalable API structuring, and performance-oriented database modeling
+- **Linux Administration:** server setup, shell operations, permissions, systemd, firewall basics, logs, backups, and monitoring
+- **Cybersecurity & Penetration Testing:** ethical testing, vulnerability assessment, authentication testing, secure configuration review, and hardening
 
 ---
 
-## Contact  
-jemsifredrick4@gmail.com  
-https://wa.me/255683186987
+## Availability & Contact
+
+- Available for software engineering collaborations, architecture-focused builds, backend systems, POS/inventory platforms, and Linux-backed deployments
+- Best fit: serious builds where system structure, long-term maintainability, and business workflow understanding matter
+- Location: Dar es Salaam, Tanzania
+- Email: jemsifredrick4@gmail.com
+- WhatsApp: [**+255 683 186 987**](https://wa.me/255683186987)
 
 ---
 
