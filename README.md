@@ -15,7 +15,7 @@ https://jemsiportfolio.vercel.app/
 
 <p align="left">
   <a href="https://jemsiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/jaytrix-systems-74202a320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jemsi-pallangyo-74202a320/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@jaytrixsystems442tx?si=7EFpHHiENBY2tuiD"><img src="https://img.shields.io/badge/YouTube-JayTrix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:jemsifredrick4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/255683186987"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
